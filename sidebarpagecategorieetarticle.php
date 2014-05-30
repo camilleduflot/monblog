@@ -1,19 +1,13 @@
-
-		<div class="col-md-3">
-			<aside>
-				<h3>Suivez-moi</h3>
-				<div class="rs">
+			<div class="col-md-3">
+				<aside>
+					<h3>Suivez-moi</h3>
+					<div class="rs">
 						<ul>
 							<li class="inline"><i class="fa fa-facebook"></i></li>
 							<li class="inline"><i class="fa fa-instagram"></i></li>
 							<li class="inline"><i class="fa fa-pinterest-square"></i></li>
 							<li class="inline"><i class="fa fa-twitter-square"></i></li>
 						</ul>
-				</div>
-
-					<div>
-						<h3>Bienvenue</h3>
-						<p>Bienvenue sur ce blog</p>
 					</div>
 
 					<div class="barrerecherche">
@@ -28,13 +22,5 @@
 						<a href="http://fr.pinterest.com/camilleduflot/"> Mon Pinterest</a>
 					</div>
 
-					<div>	
-						<h3>Blogroll</h3>
-						<ul>
-							<li><a href="http://www.camilleovertherainbow.com/"> Camille Over the Rainbow </a></li>
-							<li><a href="http://style-files.com/"> The Style Files </a></li>
-						</ul>
-					</div>
-			</aside>
-		</div>
-		
+				</aside>
+			</div>
