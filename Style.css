@@ -5,15 +5,58 @@ h1, h2, h3, h4 {
 }
 
 
+@media (min-width: 768px) and (max-width: 990px) {
+	nav li{
+		width: 150px;
+	}
+}
+
+@media (min-width: 990px) {
+	nav li{
+		width:183px;
+	}
+}
+
+
+/* ###############BODY#############################*/
+
+
+body{
+	background-image: url(large_leather/large_leather.png) 
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+.img-responsive {
+	display:inline;
+}
+
+.fa {
+	line-height: 3em;
+	font-size: 2em;
+}
+
+.inline {
+	display:inline;
+}
+
 
 /* #################HEADER##########################*/
+
 
 header {
 text-align: center;
 }
 
-body{
-	background-image: url(large_leather/large_leather.png) 
+h1 {
+	color: #FF6A5D;
+	padding: 1em;
+	font-size: 4em;
+	font-family: Roboto condensed, sans-serif;
 }
 
 nav li {
@@ -27,25 +70,6 @@ nav {
 	font-size: 1em;
 	padding-bottom: 2em;
 }
-
-h1 {
-	color: #FF6A5D;
-	padding: 1em;
-	font-size: 4em;
-	font-family: Roboto condensed, sans-serif;
-}
-
-.date {
-	font-family: Josefin Sans, sans-serif;
-}
-
-
-
-section h2 {
-	color: #754253;
-	margin: 0.5em auto;
-}
-
 
 .navbar .navbar-nav{
 	display: inline-block;
@@ -65,45 +89,32 @@ section h2 {
 	padding-bottom: 0;
 }
 
-@media (min-width: 768px) and (max-width: 990px) {
-	nav li{
-		width: 150px;
-	}
+
+/*#################SECTION#####################*/
+
+
+section h2 {
+	color: #754253;
+	margin: 0.5em auto;
 }
 
-@media (min-width: 990px) {
-	nav li{
-		width:183px;
-	}
+.date {
+	font-family: Josefin Sans, sans-serif;
 }
 
-footer{
-	text-align: center;
-	background-color: #e8e4e1; 
-	padding-top: 2em;
+.align-right {
+	text-align: right;
 }
+
+
+/*#################ASIDE#####################*/
 
 .rs {
 	color: #CF8653;
 }
 
-ul {
-	list-style: none;
-	padding: 0;
-	margin: 0;
-}
-
-.inline {
-	display:inline;
-}
-
-.fa {
-	line-height: 3em;
-	font-size: 2em;
-}
-
-footer .fa {
-	padding: 0 1em;
+section, aside {
+	margin:1em auto 2em auto;
 }
 
 aside .fa {
@@ -111,21 +122,32 @@ aside .fa {
 	line-height: 1.5em;
 }
 
-.img-responsive {
-	display:inline;
-}
-
-.align-right {
-	text-align: right;
-}
-
-section, aside {
-	margin:1em auto 2em auto;
-}
-
 aside h3 {
 	padding: 1.5em 0 1em 0;
 }
+
+
+/*#################FOOTER####################*/
+
+footer{
+	text-align: center;
+	background-color: #e8e4e1; 
+	padding-top: 2em;
+}
+
+footer .fa {
+	padding: 0 1em;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
