@@ -1,4 +1,5 @@
-<div class="col-md-3">
+
+		<div class="col-md-3">
 				<aside>
 					<h3>Suivez-moi</h3>
 					<div class="rs">
