@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Voyages - Mon blog</title>
+		<title>Voyages - D'ici et d'ailleurs</title>
 		<meta charset="UTF-8">
 
 		<link href='http://fonts.googleapis.com/css?family=Amatic+SC:400,700' rel='stylesheet' type='text/css'>
@@ -15,6 +15,7 @@
 
 		<link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 		<link rel="stylesheet" type="text/css" href="style.css">
+		<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 	</head>
 
 	<body>
@@ -37,9 +38,9 @@
 				<div class="row">
 					<div class="col-md-6">
 						<article>
-							<img src="Icone avion.png" alt="Icone voyages" height= "20" width="20">
+							<i class="fa fa-plane"></i>
 							<img class="img-responsive" src="Image/Californie.jpg" alt="Californie" height="200px" width="200px">
-							<p> 25 mai 2014</p>
+							<p class='date'> 25 mai 2014</p>
 							<p> Californie </p>
 							<p> Résumé </p>
 						</article>
@@ -47,9 +48,9 @@
 
 					<div class="col-md-6">
 						<article>
-							<img src="Icone avion.png" alt="Icone voyages" height= "20" width="20">
+							<i class="fa fa-plane"></i>
 							<img class="img-responsive" src="Image/Hollywood.jpg" alt="Hollywood" height="200px" width="200px">
-							<p> 20 mai 2014</p>
+							<p class='date'> 20 mai 2014</p>
 							<p> Hollywood </p>
 							<p> Résumé </p>
 						</article>
@@ -60,9 +61,9 @@
 				<div class="row">	
 					<div class="col-md-6">
 						<article>
-							<img src="Icone avion.png" alt="Icone voyages" height= "20" width="20">
+							<i class="fa fa-plane"></i>
 							<img class="img-responsive" src="Image/Grandcanyon.jpg" alt="GrandCanyon" height="200px" width="200px">
-							<p> 15 mai 2014</p>
+							<p class='date'> 15 mai 2014</p>
 							<p> Grand Canyon</p>
 							<p> Résumé </p>
 						</article>
@@ -70,9 +71,9 @@
 
 					<div class="col-md-6">
 						<article>
-							<img src="Icone avion.png" alt="Icone voyages" height= "20" width="20">
+							<i class="fa fa-plane"></i>
 							<img class="img-responsive" src="Image/Santabarbara.jpg" alt="Santabarbara" height="200px" width="200px">
-							<p> 10 mai 2014</p>
+							<p class='date'> 10 mai 2014</p>
 							<p> Santa Barbara</p>
 							<p> Résumé </p>
 						</article>

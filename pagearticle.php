@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Californie - Mon blog</title>
+		<title>Californie - D'ici et d'ailleurs</title>
 		<meta charset="UTF-8">
 
 		<link href='http://fonts.googleapis.com/css?family=Amatic+SC:400,700' rel='stylesheet' type='text/css'>
@@ -15,6 +15,7 @@
 
 		<link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 		<link rel="stylesheet" type="text/css" href="style.css">
+		<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 	</head>
 
 
@@ -41,7 +42,7 @@
 							</article>
 									
 							<div class="col-md-12">
-								<p>Vous aimerez aussi...</p>
+								<p class='vousaimerez'>Vous aimerez aussi...</p>
 							</div>
 
 							<div class="row">
@@ -49,7 +50,7 @@
 									<article>
 										<img class="img-responsive" src="Image/Santabarbara.jpg" alt="Santabarbara" height="200px" width="200px">
 										<p> Santa Barbara </p>
-										<p> 25 mai 2014</p>
+										<p class='date'> 25 mai 2014</p>
 									</article>
 								</div>
 
@@ -57,7 +58,7 @@
 									<article>
 										<img class="img-responsive" src="Image/Hollywood.jpg" alt="Hollywood" height="200px" width="200px">
 										<p> Hollywood </p>
-										<p> 20 mai 2014</p>
+										<p class='date'> 20 mai 2014</p>
 									</article>
 								</div>
 							
@@ -65,7 +66,7 @@
 									<article>
 										<img class="img-responsive" src="Image/Grandcanyon.jpg" alt="GrandCanyon" height="200px" width="200px">
 										<p> Grand Canyon</p>
-										<p> 15 mai 2014</p>
+										<p class='date'> 15 mai 2014</p>
 									</article>
 								</div>
 							</div>

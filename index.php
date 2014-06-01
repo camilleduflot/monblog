@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Mon blog, blog lifestyle, tendances, mode</title>
+		<title>D'ici et d'ailleurs, blog lifestyle, tendances, mode</title>
 		<meta charset="UTF-8">
 
 		<link href='http://fonts.googleapis.com/css?family=Amatic+SC:400,700' rel='stylesheet' type='text/css'>
@@ -15,6 +15,7 @@
 
 		<link href="http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 		<link rel="stylesheet" type="text/css" href="style.css">
+		<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 	</head>
 
 
@@ -39,11 +40,8 @@
 			<div class="col-sm-6">
 				<article>
 					<i class="fa fa-plane"></i>
-					<div class="icon">
-						<img class="icon" src="Icone avion.png" alt="Icone voyages" height= "20" width="20">
-					</div>
 					<img class="img-responsive" src="Image/Hollywood.jpg" alt="Hollywood" height="200px" width="200px">		
-					<p> 25 mai 2014</p>
+					<p class='date'> 25 mai 2014</p>
 					<p> Hollywood </p>
 				</article>
 			</div>
@@ -52,7 +50,7 @@
 				<article>
 					<img class="icon" src="Icone cintre.png" alt="Icone Mode" height="20" width="20">
 					<img class="img-responsive" src="Image/Mode vogue.jpg" alt="Vogue Paris Mai 2014" height="200px" width="200px">
-					<p> 20 mai 2014</p>
+					<p class='date'> 20 mai 2014</p>
 					<p> Un air de weekend </p>
 				</article>
 			</div>
@@ -62,24 +60,25 @@
 		<div class="row">	
 			<div class="col-sm-6">
 				<article>
-					<img class="icon" src="Icone culture.png" alt="Icone culture" height="20" width="20">
-					<img class="img-responsive" src="Image/Paris 1900.png" alt="Affiche Paris 1900" height="200px" width="200px">
-					<p> 15 mai 2014</p>
+					<i class="fa fa-university"></i>
+					<img class="img-responsive" src="Image/Paris 1900 recadre.png" alt="Affiche Paris 1900" height="200px" width="200px">
+					<p class='date'> 15 mai 2014</p>
 					<p> Paris 1900, La ville spectacle</p>
 				</article>
 			</div>
 
 			<div class="col-sm-6">
 				<article>
-					<img class="icon" src="Icone nuage.png" alt="Icone inspiration" height="20" width="20">
-					<img class="img-responsive" src="Image/Un air de Grèce.jpg" alt="Image Grèce1" height="200px" width="200px">
-					<p> 10 mai 2014</p>
+					<i class="fa fa-cloud"></i>
+					<img class="img-responsive" src="Image/Un air de Grèce recadre.jpg" alt="Image Grèce1" height="200px" width="200px">
+					<p class='date'> 10 mai 2014</p>
 					<p> Un air de Grèce</p>
 				</article>
 			</div>
 
 			<div class="col-md-12">
-				<p class="align-right">articles suivants</p>
+				<p class="align-right">Articles suivants</p>
+				<i class="fa fa-long-arrow-right"></i>
 			</div>
 		</div>
 		</section>

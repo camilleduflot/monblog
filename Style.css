@@ -61,14 +61,14 @@ h1 {
 	color: #FF6A5D;
 	padding: 1em;
 	font-size: 4em;
-	font-family: Roboto condensed, sans-serif;
+	font-family: Lobster, cursive;
 }
 
 nav li {
 	display: inline;
 	font-family: Amatic SC, cursive; sans-serif;
 	font-size: 2em;
-	background-color: #e8e4e1;
+	background-color: #d1c2bb;
 }
 
 nav {
@@ -90,7 +90,7 @@ nav {
 	border: none;
 	box-shadow: none;
 	background-image: none;
-	background-color: #e8e4e1;
+	background-color: #d1c2bb;
 	padding-bottom: 0;
 }
 
@@ -111,20 +111,13 @@ section h2 {
 	text-align: right;
 }
 
-.icon{
-	border-radius: 50%;
-	border-width: 1px;
-	background-color: #f5D2B8;
-	width:2em;
-	height:2em;
-}
 
 
 
 /*#################ASIDE#####################*/
 
 .rs{
-	color: #CF8653;
+	color: #626373;
 }
 
 section, aside {
@@ -142,6 +135,14 @@ aside h3 {
 
 .barrerecherche{
 	padding: 3em 0;
+}
+
+h3 {
+	font-family: Lobster, cursive;
+}
+
+aside .blogroll {
+	color: #000000;
 }
 
 
@@ -164,7 +165,7 @@ footer .fa {
 
 .barrecategorie{
 	font-size: 2em;
-	background-color: #f4a28f;
+	background-color: #a7a7af;
 }
 
 
@@ -190,7 +191,9 @@ article .fa {
 	left:28%;
 }
 
-
+.vousaimerez{
+	font-style: bold;
+}
 
 
 

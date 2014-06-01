@@ -30,7 +30,7 @@
 
 					<div>	
 						<h3>Blogroll</h3>
-						<ul>
+						<ul class="blogroll">
 							<li><a href="http://www.camilleovertherainbow.com/"> Camille Over the Rainbow </a></li>
 							<li><a href="http://style-files.com/"> The Style Files </a></li>
 						</ul>
